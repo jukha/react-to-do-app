@@ -1,0 +1,7 @@
+.modal{
+    border:1px solid black;
+    color: red;
+    padding:20px;
+    width: 40%;
+    margin:auto;
+}
